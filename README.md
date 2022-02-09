@@ -1,6 +1,7 @@
 <h1><p align="center"> 🦥 About Me 🦥 </p></h1>
 
 <h2><p align="center">📜 Certificates:</p></h2>
+
 ["Programing Basics C#"](https://softuni.bg/certificates/details/101711/98f86aa4)
 
 ["Programing Fundamentals C#"](https://softuni.bg/certificates/details/119979/74db2ca9)
