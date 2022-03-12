@@ -1,6 +1,6 @@
-<h1><p align="center"> 🦥 About Me 🦥 </p></h1>
+<h1>🦖 About Me </h1>
 
-<h2><p align="center"> 🔧 Technologies & Tools:</p></h2>
+<h2>🔧 Technologies & Tools:</h2>
 
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![LUA](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -21,7 +21,7 @@
 
 _____________________________________________________________________________________________________
 
-<h2><p align="center"> 🖌️ Graphic Design:</p></h2>
+<h2> 🖌️ Graphic Design:</h2>
  
  ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
