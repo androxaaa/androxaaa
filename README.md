@@ -33,5 +33,4 @@ ________________________________________________________________________________
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 _____________________________________________________________________________________________________
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaxxin&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaxxin&count_private=true&show_icons=true&theme=aura)
