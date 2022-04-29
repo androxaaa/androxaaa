@@ -25,4 +25,4 @@ ________________________________________________________________________________
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 _____________________________________________________________________________________________________
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=th3GNRLDIAZ&count_private=true&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=androxaaa&count_private=true&show_icons=true&theme=aura)
